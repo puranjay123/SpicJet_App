@@ -1,4 +1,4 @@
-# Automated Analyitcal Tool
+# Automated Analytical Tool
 
 To run this file 
 run command 
